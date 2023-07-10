@@ -22,7 +22,7 @@ const Navbar = () => {
               height="500"
             />
             <span className="self-center text-xl font-semibold whitespace-nowrap text-white">
-              Hey Geeks
+              Kredi
             </span>
           </a>
           <div className="flex items-center lg:order-2">
